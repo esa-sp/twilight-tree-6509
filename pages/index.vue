@@ -24,7 +24,7 @@
           <div class="flex flex-col sm:flex-row justify-center gap-6 mb-16 animation-delay-400 animate-slide-up">
             <button class="glass-effect px-10 py-4 rounded-xl text-lg font-semibold text-white hover:bg-white/20 transition-all duration-300 transform hover:scale-105 shadow-2xl">
               <span class="flex items-center">
-                Start Your Vibe
+                Start Your VIBE
                 <SparklesIcon class="ml-2 w-6 h-6" />
               </span>
             </button>
